@@ -6,7 +6,7 @@ public class Out {
 
 	public static void main(String[] args) {
 		
-		Methods metodos = new Methods(10, 8, 2024);
+		Methods metodos = new Methods(23, 8, 2024);
 		Scanner entrada = new Scanner(System.in);
 		
 		System.out.println("Digite o dia que você nasceu: ");
